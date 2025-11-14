@@ -1,3 +1,4 @@
+YAML
 # A descriptive name for your workflow
 name: Node.js CI/CD Pipeline
 # --- Triggers ---
